@@ -1,0 +1,6 @@
+User-agent: * 
+Disallow: /game1.php
+Disallow: /game2.php
+Disallow: /game3.php
+Disallow: /game4.php
+Disallow: /game5.php
