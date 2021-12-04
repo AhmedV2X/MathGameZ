@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://mathgamez.net/</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/index.php</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/about.php</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/lessons.php</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/games.php</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/leaderboards.php</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/contact.php</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/login.php</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/lesson.php?lesson-id=1</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/lesson.php?lesson-id=2</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/lesson.php?lesson-id=3</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/lesson.php?lesson-id=4</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/lesson.php?lesson-id=5</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/lesson.php?lesson-id=6</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/leaderboard.php?gameid=1</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/leaderboard.php?gameid=2</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/leaderboard.php?gameid=3</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/lesson.php?lesson-id=7</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/lesson.php?lesson-id=8</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/lesson.php?lesson-id=9</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/game1.php?gameid=1</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/game2.php?gameid=2</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/game3.php?gameid=3</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/game4.php?gameid=4</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/game5.php?gameid=5</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/leaderboard.php?gameid=4</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/leaderboard.php?gameid=5</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mathgamez.net/register.php</loc>
+  <lastmod>2020-12-29T22:22:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

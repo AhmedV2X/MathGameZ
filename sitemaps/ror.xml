@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://mathgamez.net/</title>
+  <link>http://mathgamez.net/</link>
+
+<item>
+     <link>https://mathgamez.net/</link>
+     <title>Home Page</title>
+     <description>Home Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/index.php</link>
+     <title>Home Page</title>
+     <description>Home Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/about.php</link>
+     <title>About Page</title>
+     <description>About Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/lessons.php</link>
+     <title>Lesson Details Page</title>
+     <description>Lesson Details Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/games.php</link>
+     <title>Lesson Details Page</title>
+     <description>Lesson Details Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/leaderboards.php</link>
+     <title>Home Page</title>
+     <description>Home Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/contact.php</link>
+     <title>Contact Us</title>
+     <description>Contact Us</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/login.php</link>
+     <title>Login Page</title>
+     <description>Login Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/lesson.php?lesson-id=1</link>
+     <title>Lesson Details Page</title>
+     <description>Lesson Details Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/lesson.php?lesson-id=2</link>
+     <title>Lesson Details Page</title>
+     <description>Lesson Details Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/lesson.php?lesson-id=3</link>
+     <title>Lesson Details Page</title>
+     <description>Lesson Details Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/lesson.php?lesson-id=4</link>
+     <title>Lesson Details Page</title>
+     <description>Lesson Details Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/lesson.php?lesson-id=5</link>
+     <title>Lesson Details Page</title>
+     <description>Lesson Details Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/lesson.php?lesson-id=6</link>
+     <title>Lesson Details Page</title>
+     <description>Lesson Details Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/leaderboard.php?gameid=1</link>
+     <title>Home Page</title>
+     <description>Home Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/leaderboard.php?gameid=2</link>
+     <title>Home Page</title>
+     <description>Home Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/leaderboard.php?gameid=3</link>
+     <title>Home Page</title>
+     <description>Home Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/lesson.php?lesson-id=7</link>
+     <title>Lesson Details Page</title>
+     <description>Lesson Details Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/lesson.php?lesson-id=8</link>
+     <title>Lesson Details Page</title>
+     <description>Lesson Details Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/lesson.php?lesson-id=9</link>
+     <title>Lesson Details Page</title>
+     <description>Lesson Details Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/game1.php?gameid=1</link>
+     <title>game 1</title>
+     <description>game 1</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/game2.php?gameid=2</link>
+     <title>game 2</title>
+     <description>game 2</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/game3.php?gameid=3</link>
+     <title>game 3</title>
+     <description>game 3</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/game4.php?gameid=4</link>
+     <title>game 3</title>
+     <description>game 3</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/game5.php?gameid=5</link>
+     <title>game 3</title>
+     <description>game 3</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/leaderboard.php?gameid=4</link>
+     <title>Home Page</title>
+     <description>Home Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/leaderboard.php?gameid=5</link>
+     <title>Home Page</title>
+     <description>Home Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mathgamez.net/register.php</link>
+     <title>Register Page</title>
+     <description>Register Page</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
