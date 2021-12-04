@@ -1,0 +1,72 @@
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100%;
+}
+main section{
+    display: flex;
+    flex-direction: column;
+    min-height: 70vh;
+    align-items: center;
+    justify-content: center;
+
+}
+section:nth-of-type(1){
+    width:100%;
+    font-family: var(--font1);
+
+}
+section:nth-of-type(1) p{   
+    font-size: 2vw;
+
+}
+section:nth-of-type(1) .row{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+section:nth-of-type(1) img{
+    width: 40%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+section:nth-of-type(2){
+    width:100%;
+    flex-direction: row;
+    align-items: flex-start;
+
+}
+section:nth-of-type(2) table, section:nth-of-type(2) th, section:nth-of-type(2) td{
+    border: 2px solid var(--color4);
+
+}
+section:nth-of-type(2) table{
+    border-collapse: collapse;
+    font-family: var(--font2);
+
+    text-align: center;
+    font-size: 1.5vw;
+
+}
+section:nth-of-type(2) table th{
+    background-color: var(--color3);
+    font-size: 1.8vw;
+    padding: 1vw;
+    min-width: fit-content;
+
+}
+section:nth-of-type(2) table tr:nth-of-type(even){
+    background-color: var(--color2);
+
+
+}
+section:nth-of-type(2) table tr:nth-of-type(odd){
+    background-color: var(--color1);
+
+}

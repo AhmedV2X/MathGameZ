@@ -1,0 +1,273 @@
+html,body{
+    margin:0;
+    padding: 0;
+}
+:root{
+    /*color schema variables*/
+    --color1:#F9A620;
+    --color2:rgb(255, 222, 73);
+    --color3:#548C2F;
+    --color4:#104911;
+    --color5:#800000;
+
+    --font1:'Architects Daughter', cursive;
+    --font2:'Shadows Into Light', cursive;
+
+
+}
+header{
+    width:100%;
+    height: auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+nav{
+    background-color: var(--color1);
+width: 100%;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    font-family: var(--font1);
+    position: relative;
+}
+nav a{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color:var(--color5);
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    text-transform: capitalize;
+    font-size: 1.4vw;
+    margin-left: 1.5%;
+    transition: color 0.5s, transform 0.5s;
+}
+nav a img{
+    max-width: 1.6vw;
+    width:100%;
+    
+}
+nav a:hover{
+    transform: scale(1.1);
+    color: white;
+}
+.lastitem{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    position: absolute;
+    right: 2%;
+    top: 0;
+    margin: 0;
+
+}
+.logoutgroupwrap{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    position: absolute;
+    right: 2%;
+    top: 0;
+    margin: 0;
+}
+.logoutgroupwrap a{
+    font-size: 1.4vw;
+    margin-right: 12%;
+    margin-left: 12%;
+
+}
+
+.logoutgroupwrap a span{
+    font-size: 1.6vw;
+}
+.logoutgroupwrap a:last-of-type{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.logo{
+    transition: none;
+    margin: 0;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+}
+.logo:hover{
+    transform: none;
+
+}
+.logo > img{
+    width: 5vw;
+
+}
+.mobileButton{
+    display: none;
+
+}
+.mobileMenu{
+
+    display: none;
+
+
+}
+
+footer{
+    min-height: 15vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-top: 2px solid var(--color1);
+}
+footer a{
+    font-size: 2vw;
+}
+.footerlogo{
+    position: absolute;
+    left: 0;
+    height: 15vh;
+
+}
+.social-media{
+    width:30%;
+    min-height: 15vh;
+    position: absolute;
+    right: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.social-media a{
+    width:100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.social-media img{
+    width: 50px;
+    height: 50px;
+}
+
+
+@media only screen and (max-width: 720px) {
+
+    .logo > img{
+        width: 25vw;
+        margin: 0;
+        padding: 0;
+    
+    }
+    nav{
+        min-height: 20vh;
+    }
+    nav > a{
+        display: none;
+    }
+
+    .mobileButton{
+        display: flex;
+        background-color: var(--color3);
+        border: none;
+        outline: none;
+        font-size: 5vw;
+        color:var(--color1);
+        z-index: 2;
+        cursor: pointer;
+        align-items: center;
+
+
+    }
+    .mobileMenu{
+        position: fixed;
+        top: 0;
+        width: 100%;
+        min-height: 100vh;
+        background-color: var(--color3);
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        opacity: 0;
+        z-index: 0;
+    }
+    .mobileMenu a{
+        text-decoration: none;
+        color: var(--color1);
+        margin-bottom: 3%;
+        font-size: 6vw;
+        text-transform: uppercase;
+        font-family: var(--font1);
+
+
+    }
+    .closeBtn{
+        font-family: var(--font1);
+
+
+        position: absolute;
+        top: 0;
+        right: 5%;
+        background-color: var(--color3);
+        border: none;
+        outline: 0;
+        color:white;
+        font-size: 15vw;
+        cursor: pointer;
+    }
+    .mobileMenu a:nth-of-type(1){
+        margin-top: 5%;
+    }
+
+
+    nav a:last-of-type{
+   
+        font-size: 5vw;
+        cursor: pointer;
+
+
+    }
+    nav a:last-of-type img{
+
+        display: none;
+
+        }
+
+        .logoutgroupwrap{
+            display: flex;
+        }
+        .logoutgroupwrap a{
+            font-size: 3vw;
+
+        }
+
+        footer{
+            display: flex;
+            flex-direction: column-reverse;
+        }
+        .footerlogo{
+            position: unset;
+        }
+        .social-media{
+            position: unset;
+            width: 100%;
+        
+        }
+}
+

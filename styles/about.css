@@ -1,0 +1,138 @@
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+/*----------------------Section 1 Start-----------------------------*/
+h1{
+    font-family: var(--font1);
+    font-size: 3vw;
+
+}
+
+/*
+
+section:nth-of-type(1) img{
+    width: 50%;
+    min-height: 30vh;
+    height: auto;
+    filter:blur(3px);
+    overflow: hidden;
+
+}*/
+
+
+/*----------------------Section 1 End-----------------------------*/
+
+
+/*----------------------Section 2 Start-----------------------------*/
+
+section:nth-of-type(1){
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 70vh;
+}
+section:nth-of-type(1) > h1{
+    font-size: 3vw;
+    width: 70%;
+    font-family: var(--font1);
+
+
+}
+section:nth-of-type(1) > h1::before{
+    content: "+++";
+}
+section:nth-of-type(1) > h1::after{
+    content: "+++";
+}
+
+section:nth-of-type(1) article{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+section:nth-of-type(1) article h1{
+    font-size: 2.5vw;
+    border-bottom: 1px solid silver;
+    font-family: var(--font1);
+
+}
+
+section:nth-of-type(1) p{
+    text-align: left;
+    font-family: var(--font2);
+
+}
+
+/*----------------------Section 2 End-----------------------------*/
+
+/*----------------------Section 3 Start-----------------------------*/
+section:nth-of-type(2){
+    min-height: 80vh;
+    width: 100%;
+    background-color: var(--color2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: var(--font2);
+
+
+    
+}
+
+section:nth-of-type(2) img{
+    width: 20%;
+    
+}
+
+section:nth-of-type(2) h2{
+    font-size: 3vw;
+    font-family: var(--font1) !important;
+
+}
+section:nth-of-type(2) div h2{
+    width: fit-content;
+
+    font-size: 1.5vw;
+    text-transform: capitalize;
+}
+
+
+section:nth-of-type(2) article{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.2vw;
+}
+section:nth-of-type(2) article:nth-of-type(1) div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section:nth-of-type(2) article:nth-of-type(1) div:nth-of-type(even){
+    flex-direction: row-reverse;
+}
+
+
+section:nth-of-type(2) article:nth-of-type(2){
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+}
+
+
+/*----------------------Section 3 End-----------------------------*/
+
+section:nth-of-type(3){
+    min-height: 30vh;
+    width: 100%;
+    background-color: var(--color1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: var(--font2) !important;
+    
+}

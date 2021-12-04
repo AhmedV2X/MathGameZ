@@ -1,0 +1,89 @@
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+/*----------------------Section 1 Start-----------------------------*/
+
+section:nth-of-type(1){
+    width: 100%;
+    min-height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section:nth-of-type(1) img{
+    width: 50%;
+}
+
+/*----------------------Section 1 End-----------------------------*/
+
+
+/*----------------------Section 2 Start-----------------------------*/
+
+section:nth-of-type(2){
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 30vh;
+    background-color: var(--color2);
+    width: 100%;
+}
+section:nth-of-type(2) > h1::before{
+    content: "+++";
+}
+section:nth-of-type(2) > h1::after{
+    content: "+++";
+}
+
+section:nth-of-type(2) h1{
+    font-family: var(--font1);
+    font-size: 3vw;
+
+}
+
+section:nth-of-type(2) form{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    
+
+}
+
+input,textarea{
+    margin-top: 5%;
+    font-size: 2vw;
+    border-radius: 6px;
+    border: 3px solid white;
+    padding: 1vw;
+    background-color: var(--color1);
+    outline: none;
+    width: 100%;
+
+}
+::placeholder{
+    color: var(--color4);
+    opacity: 0.5;
+}
+input[type="submit"]{
+    margin-bottom: 5%;
+    width: fit-content;
+    color: white;
+    background-color: var(--color3);
+    cursor: pointer;
+    font-family: var(--font1);
+
+    border: 2.5px solid var(--color1);
+    transition: background-color 1s;
+    font-size: 2.5vw;
+}
+input[type="submit"]:hover{
+    background-color: var(--color4);
+
+}
+
+/*----------------------Section 2 End-----------------------------*/
+
+
